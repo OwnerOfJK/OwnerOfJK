@@ -1,4 +1,6 @@
-## Hi there 👋
+## Ohayo 👋
+
+![Alt text](https://66.media.tumblr.com/ee5169a677d71323105a5210404f474d/tumblr_ptp22tbWHk1tgo74ho1_1280.gif)
 
 <!--
 **OwnerOfJK/OwnerOfJK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
